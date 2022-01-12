@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Norah</h1>
-<h3 align="center">I am programmerp👩‍💻</h3>
+<h3 align="center">I am programmer👩‍💻</h3>
 
 - 🌱 I’m currently learning **python**
 
